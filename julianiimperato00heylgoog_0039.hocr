@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./julianiimperato00heylgoog_0039.png"; bbox 0 0 682 1430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 32 136 652 1038">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 32 136 652 1038">
+     <span class='ocr_line' id='line_1_1' title="bbox 32 136 652 1038; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 32 136 652 1038; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 32 977 652 1278">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 32 977 652 1278">
+     <span class='ocr_line' id='line_1_2' title="bbox 422 977 652 1038; baseline 0 -41"><span class='ocrx_word' id='word_1_2' title='bbox 422 977 652 1038; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 32 1038 652 1278; baseline 0 -222"><span class='ocrx_word' id='word_1_3' title='bbox 32 1038 652 1278; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 372 987 646 1050">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 372 987 646 1050">
+     <span class='ocr_line' id='line_1_4' title="bbox 386 987 644 1031; baseline -0.004 -8"><span class='ocrx_word' id='word_1_4' title='bbox 386 987 422 1023; x_wconf 52' lang='grc' dir='ltr'>ξιξ</span> <span class='ocrx_word' id='word_1_5' title='bbox 430 1008 466 1023; x_wconf 68' lang='lat' dir='ltr'>nihi</span> <span class='ocrx_word' id='word_1_6' title='bbox 475 1007 552 1022; x_wconf 61' lang='lat' dir='ltr'>minum</span> <span class='ocrx_word' id='word_1_7' title='bbox 561 1009 594 1028; x_wconf 69' lang='lat' dir='ltr'>en,</span> <span class='ocrx_word' id='word_1_8' title='bbox 616 1018 633 1031; x_wconf 50' lang='grc' dir='ltr'><strong><em>υ</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 641 1013 644 1022; x_wconf 78' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 372 1011 646 1050; baseline 0.004 -3"><span class='ocrx_word' id='word_1_10' title='bbox 372 1032 420 1047; x_wconf 67' lang='lat' dir='ltr'>nia..-</span> <span class='ocrx_word' id='word_1_11' title='bbox 426 1037 444 1047; x_wconf 63' lang='grc' dir='ltr'>,ς</span> <span class='ocrx_word' id='word_1_12' title='bbox 451 1033 480 1046; x_wconf 70' lang='lat' dir='ltr'>mz-</span> <span class='ocrx_word' id='word_1_13' title='bbox 487 1032 530 1046; x_wconf 56' lang='lat' dir='ltr'>aaa·</span> <span class='ocrx_word' id='word_1_14' title='bbox 537 1028 595 1046; x_wconf 65' lang='lat' dir='ltr'>umut-</span> <span class='ocrx_word' id='word_1_15' title='bbox 636 1011 646 1050; x_wconf 35' lang='grc'>,11</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
